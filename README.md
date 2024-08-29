@@ -11,7 +11,12 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/iroystone4/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
 
 
-<h2> Cybersecurity Labs:</h2>
+<h2>👨‍💻 Cybersecurity Labs:</h2>
+   - [Hardening] 
+   - [Incident Response: Detection]
+   - [Performing Vulnerability Scans]
+
+
 
 <h2>🤳Connect with me:</h2>
 
