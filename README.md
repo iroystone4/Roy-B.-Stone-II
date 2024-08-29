@@ -12,7 +12,7 @@
 
 
 <h2>👨‍💻 Cybersecurity Labs:</h2>
-   - [Hardening] 
+   - [Hardening](https://youtu.be/E9LqgQ-8A4A?si=Lbn2mYE1mGQTT5LA)
    - [Incident Response: Detection]
    - [Performing Vulnerability Scans]
 
