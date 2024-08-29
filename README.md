@@ -10,11 +10,14 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/iroystone4/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/iroystone4/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
 
+
+<b> Cybersecurity Labs:</h2>
+
 <h2>🤳Connect with me:</h2>
 
 
 
-<b> Cybersecurity Labs
+
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
