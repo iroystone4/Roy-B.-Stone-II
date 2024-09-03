@@ -1,4 +1,4 @@
-   <h1>Hi, I'm Roy, an <a href=https://www.linkedin.com/in/roy-stone-34b797275/> Cybersecurity Analyst, IT Professional</a>☺</h1>
+   <h1>Hi, I'm Roy, an <a href=https://www.linkedin.com/in/roy-stone-34b797275/> Cybersecurity Professional, IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Cybersecurity Labs:</h2>
    
