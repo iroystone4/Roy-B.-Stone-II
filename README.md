@@ -1,6 +1,10 @@
-   <h1>Hi, I'm Roy, an <a href=https://www.linkedin.com/in/roy-stone-34b797275/> Cybersecurity Professional, IT Professional</a>☺</h1>
+   <h1>Hi, I'm Roy, an <a href=https://www.linkedin.com/in/roy-stone-34b797275/> Cybersecurity and IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Cybersecurity Labs:</h2>
+<h2>👨🏾‍💻 Cybersecurity Projects:</h2>
+   - [Setting up a home lab](https://youtu.be/bE_99jkW2eo)
+   
+
+<h2>👨🏾‍💻 Cybersecurity Labs:</h2>
    
    
    - [Hardening](https://youtu.be/6PBNzk6wdYo?si=epbjWs_wiqb6CTEU)
