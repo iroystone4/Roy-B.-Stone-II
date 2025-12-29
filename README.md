@@ -4,6 +4,7 @@
 
    -   [Setting Up a Home Lab](https://youtu.be/bE_99jkW2eo)
    -   [Network Traffic Analysis with Wireshark](https://youtu.be/5UK8qI_tX8M)
+   -   [Build and Configure a Firewall](https://youtu.be/Ltl78rOCWN8)
 
 <h2>👨🏾‍💻 Cybersecurity Labs:</h2>
    
